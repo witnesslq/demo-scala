@@ -1,6 +1,7 @@
 package com.yeahwell.scala.grammer.demoextends
 
 /**
+ * 调用父类的constructor
  * @author yeahwell
  * 
  */

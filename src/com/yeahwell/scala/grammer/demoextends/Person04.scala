@@ -1,6 +1,7 @@
 package com.yeahwell.scala.grammer.demoextends
 
 /**
+ * protected
  * @author yeahwell
  */
 class Person04 {
@@ -15,6 +16,7 @@ class Student04 extends Person04 {
   
   // 还可以使用protected[this]，则只能在当前子类对象中访问父类的field和method，无法通过其他子类对象访问父类的field和method
   def makeFriends(s: Student04) {
+        println("my name is " + name + ", your name is " + s.name)
 //    println("my hobby is " + hobby + ", your hobby is " + s.hobby)
   }
   

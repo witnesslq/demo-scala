@@ -1,6 +1,7 @@
 package com.yeahwell.scala.grammer.demoextends
 
 /**
+ * 抽象field
  * @author yeahwell
  *
  */

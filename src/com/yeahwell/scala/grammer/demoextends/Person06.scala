@@ -1,6 +1,7 @@
 package com.yeahwell.scala.grammer.demoextends
 
 /**
+ * 匿名内部类
  * @author yeahwell
  *
  */
