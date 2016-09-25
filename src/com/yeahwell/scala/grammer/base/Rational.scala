@@ -1,4 +1,4 @@
-package com.yeahwell.scala.grammer
+package com.yeahwell.scala.grammer.base
 
 /**
  * @author yanjiawei
