@@ -1,0 +1,6 @@
+Hadoop
+Hive
+HBase
+Scala
+Spark
+Storm
