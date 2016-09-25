@@ -1,4 +1,4 @@
-package com.yeahwell.scala.spark
+package com.yeahwell.scala.grammer.yatai
 
 import java.io.File
 
